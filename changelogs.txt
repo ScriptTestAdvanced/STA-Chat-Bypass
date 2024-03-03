@@ -1,2 +1,9 @@
 V1.0 Changelogs
-Cool Things blah blah blah whatever the fuck u wanna write ig
+
+Fixed the Kill yourself message
+
+New Changelogs visible in the GUI
+
+Sivy Supporting me, love you siv <3
+
+Added more bypasses
