@@ -1,0 +1,10 @@
+C:\Users\Manoli\Downloads\ChatBypasser1\ChatBypasser1\ChatBypasser1\bin\Release\ChatBypasser1.exe.config
+C:\Users\Manoli\Downloads\ChatBypasser1\ChatBypasser1\ChatBypasser1\bin\Release\ChatBypasser1.exe
+C:\Users\Manoli\Downloads\ChatBypasser1\ChatBypasser1\ChatBypasser1\bin\Release\ChatBypasser1.pdb
+C:\Users\Manoli\Downloads\ChatBypasser1\ChatBypasser1\ChatBypasser1\obj\Release\ChatBypasser1.csproj.AssemblyReference.cache
+C:\Users\Manoli\Downloads\ChatBypasser1\ChatBypasser1\ChatBypasser1\obj\Release\ChatBypasser1.Form1.resources
+C:\Users\Manoli\Downloads\ChatBypasser1\ChatBypasser1\ChatBypasser1\obj\Release\ChatBypasser1.Properties.Resources.resources
+C:\Users\Manoli\Downloads\ChatBypasser1\ChatBypasser1\ChatBypasser1\obj\Release\ChatBypasser1.csproj.GenerateResource.cache
+C:\Users\Manoli\Downloads\ChatBypasser1\ChatBypasser1\ChatBypasser1\obj\Release\ChatBypasser1.csproj.CoreCompileInputs.cache
+C:\Users\Manoli\Downloads\ChatBypasser1\ChatBypasser1\ChatBypasser1\obj\Release\ChatBypasser1.exe
+C:\Users\Manoli\Downloads\ChatBypasser1\ChatBypasser1\ChatBypasser1\obj\Release\ChatBypasser1.pdb
