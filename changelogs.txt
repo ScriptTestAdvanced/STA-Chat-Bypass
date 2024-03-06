@@ -1,7 +1,15 @@
-V1.0 Changelogs
+March 6th
 
-Fixed the Kill yourself message
+V1.1 Changelogs
 
-New Changelogs visible in the GUI
+Deleted the second I raped your mom button
 
-Added more bypasses
+Now shows "Copied 'the text' in your clipboard! Paste in roblox!" in the MessageBox
+
+Added breast bypasses
+
+Made the window a bit smaller
+
+Bug Fixes UwU
+
+If you don't have the newest release, download at https://github.com/ScriptTestAdvanced/STA-Chat-Bypass/releases/
