@@ -1,5 +1,0 @@
-Goto the folder: ChatBypasser1 (Inside of this chatbypasser1 folder)
-Open bin folder
-Open Debug folder
-
-Open ChatBypasser1.exe
